@@ -1,1 +1,1 @@
-This is my Project Repo wherein i will be posting projects made by me, Enjoy!!
+Welcome to my Java project repository where I will be sharing Java projects created by me. Enjoy!
